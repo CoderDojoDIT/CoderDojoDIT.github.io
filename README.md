@@ -1,2 +1,1 @@
-# Coder Dojo DIT
-* [Website Link](https://coderdojodit.github.io./)
+#[Coder Dojo DIT](https://coderdojodit.github.io./)
